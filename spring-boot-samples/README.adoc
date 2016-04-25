@@ -2,6 +2,9 @@
 
 The following sample applications are provided:
 
+Check out and build the samples
+
+
 |===
 | Sample | Description
 
